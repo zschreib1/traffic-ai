@@ -17,5 +17,8 @@ I implemented the:
 - *get_model* 
 functions.
 
+### Building the model
+In order to lower the loss and increase the accuracy of my model, I tweaked and fine-tuned the hyperparameters: I iteratively changed the number of layers, the number of neurons per layer etc.
+
 ## Getting started
 Inside of the traffic directory, run **pip3 install -r requirements.txt** to install this project’s dependencies: *opencv-python* for image processing, *scikit-learn* for ML-related functions, and *tensorflow* for neural networks.
