@@ -17,6 +17,8 @@ I implemented the:
 - *get_model* 
 functions.
 
+Click here to view a [short video demo](https://youtu.be/Q3UIadopdmY) of my implementation. 
+
 ### Building the model
 In order to lower the loss and increase the accuracy of my model, I tweaked and fine-tuned the hyperparameters: I iteratively changed the number of layers, the number of neurons per layer etc.
 
