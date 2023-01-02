@@ -1,5 +1,5 @@
 # traffic-ai
-I wrote an AI to identify which traffic sign appears in a photograph, using **TensorFlow**, building a **neural network** to **classify road signs based on an image of those signs**. 
+I wrote an AI to identify which traffic sign appears in a photograph. Using **TensorFlow**, I built a **neural network** to **classify road signs based on an image of those signs**. 
 
 Starter code was provided for this project, which I completed in the context of Harvard UniversityX's [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) course.
 
