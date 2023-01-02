@@ -1,7 +1,7 @@
 # traffic-ai
 I wrote an AI to identify which traffic sign appears in a photograph. Using **TensorFlow**, I built a **neural network** to **classify road signs based on an image of those signs**. 
 
-Starter code was provided for this project, which I completed in the context of **Harvard UniversityX**'s **[CS50 Introduction to Artificial Intelligence with Python]** (https://cs50.harvard.edu/ai/2020/) course.
+Starter code was provided for this project, which I completed in the context of **Harvard UniversityX**'s **[CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)** course.
 
 ## Specification
 This program uses a **labeled dataset**: a collection of images that have already been categorized by the road sign represented in them. More specifically, the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) (GTSRB) dataset, which contains thousands of images of 43 different kinds of road signs.
