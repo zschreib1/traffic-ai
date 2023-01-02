@@ -21,4 +21,4 @@ functions.
 In order to lower the loss and increase the accuracy of my model, I tweaked and fine-tuned the hyperparameters: I iteratively changed the number of layers, the number of neurons per layer etc.
 
 ## Getting started
-Inside of the traffic directory, run **pip3 install -r requirements.txt** to install this project’s dependencies: *opencv-python* for image processing, *scikit-learn* for ML-related functions, and *tensorflow* for neural networks.
+Inside of the traffic directory, run **pip3 install -r requirements.txt** to install this project’s dependencies: *opencv-python* for image processing, *scikit-learn* for ML-related functions, and *tensorflow* for neural networks. Download the [data set](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) for this project and unzip it. Move the resulting gtsrb directory inside of your traffic directory.
